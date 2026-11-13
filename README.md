@@ -1,7 +1,7 @@
-<img src="./profile-cover.svg" alt="David Farewell · Architecture, visualization and real-time 3D" width="1040">
+<img src="./profile-cover.svg" alt="David Farewell · Architecture, real-time 3D and applied AI" width="1040">
 
-## I like building places you can step into.
+## Walk through it before it’s built.
 
-A room can feel completely different depending on where you stand. That’s what I like about architectural visualization: a shaft of light can pull you down a corridor, and a doorway can make you want to see what’s on the other side.
+A competition image that makes you stop scrolling. A home you can explore before the first brick goes down. A different version of the same space, ready while the design is still up for debate.
 
-I work across still images and real-time 3D, using 3ds Max, D5 Render, and Unreal Engine.
+I’m **David Farewell**, an architect working across **cinematic visualization, real-time 3D, and applied AI**. I create architectural imagery, build interactive walkthroughs, and prototype ways to explore more visual directions before committing to one. I also build automations for the repetitive parts of production, so there’s more time to get the shot right.
